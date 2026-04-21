@@ -49,7 +49,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 ### 📊 AWS Learning Progress
 
 - ✅ **[Day 1: What is Cloud Computing](./days/day-01-cloud-computing.md)**  
-- ⬜ Day 2  
+- ✅ **[Day 2: AWS Global Infrastructure](./days/day-02-aws-global-infrastructure.md)**  
 - ⬜ Day 3  
 - ⬜ Day 4  
 

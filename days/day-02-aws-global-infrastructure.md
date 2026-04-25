@@ -108,5 +108,44 @@ This session essentially bridged the gap between virtual cloud interfaces and th
 
 ---
 
+## Lab Task Results
+
+### Step 1: Africa Region
+Explored the Africa (Cape Town) region to understand local data residency and latency.
+
+![Step 1 - Africa Region](../Week-01/Day-02/Step%201%20-%20Africa%20Region.png)
+
+---
+
+### Step 2: All Available Regions
+Reviewed the global map of all available AWS Regions and Edge Locations.
+
+![Step 2 - All Available Regions](../Week-01/Day-02/Step%202%20-%20All%20Available%20Regions.png)
+
+---
+
+### Step 3: Cheat Sheet Table
+Compiled a cheat sheet table summarizing AWS Global Infrastructure components.
+
+![Step 3 - Cheat Sheet Table](../Week-01/Day-02/Step%203%20-%20Cheat%20Sheet%20Table.png)
+
+---
+
+### Step 4: GitHub Gist URL
+Published the infrastructure cheat sheet to a GitHub Gist for easy reference.
+
+![Step 4 - GitHub Gist URL](../Week-01/Day-02/Step%204%20-%20GitHub%20Gist%20URL.png)
+
+---
+
+### Bonus Challenge
+Conducted a latency test to compare connection speeds across different AWS Regions.
+
+![Bonus Challenge](../Week-01/Day-02/Bonus%20Challenge%20-Latency%20Test.png)
+
+<br>
+
+---
+
 ### 📅 Progress Tracker
 - [x] **Day 2 Completed** ✅

@@ -95,35 +95,35 @@ While I now understand the foundational concepts, I am extremely eager to get my
 ### Step 1: AWS Account Creation
 Successfully created AWS Free Tier account.
 
-![Step 1 - AWS Account Creation](../Week-01/Day-01/Step 1 - AWS Account Creation.png)
+![Step 1 - AWS Account Creation](../Week-01/Day-01/Step%201%20-%20AWS%20Account%20Creation.png)
 
 ---
 
 ### Step 2: MFA Setup
 Enabled MFA for root account using Authenticator App.
 
-![Step 2 - MFA Setup](../Week-01/Day-01/Step 2 - MFA Setup.png)
+![Step 2 - MFA Setup](../Week-01/Day-01/Step%202%20-%20MFA%20Setup.png)
 
 ---
 
 ### Step 3: Console Exploration
 Explored EC2, S3, IAM, RDS, and Lambda services.
 
-![Step 3 - Console Exploration](../Week-01/Day-01/Step 3 - Console Exploration.png)
+![Step 3 - Console Exploration](../Week-01/Day-01/Step%203%20-%20Console%20Exploration.png)
 
 ---
 
 ### Step 4: Billing Budget Setup
 Configured Zero Spend Budget for cost control.
 
-![Step 4 - Billing Budget Setup](../Week-01/Day-01/Step 4 - Billing Budget Setup.png)
+![Step 4 - Billing Budget Setup](../Week-01/Day-01/Step%204%20-%20Billing%20Budget%20Setup.png)
 
 ---
 
 ### Bonus Challenge
 Estimated EC2 cost using AWS Pricing Calculator.
 
-![Bonus Challenge](../Week-01/Day-01/Bonus Challenge - AWS Pricing Calculator Estimate.png)
+![Bonus Challenge](../Week-01/Day-01/Bonus%20Challenge%20-%20AWS%20Pricing%20Calculator%20Estimate.png)
 
 <br>
 

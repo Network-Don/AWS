@@ -52,7 +52,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 1: What is Cloud Computing](./days/day-01-cloud-computing.md)**  
 - ✅ **[Day 2: AWS Global Infrastructure](./days/day-02-aws-global-infrastructure.md)**  
 - ✅ **[Day 3: AWS Shared Responsibility Model](./days/day-03.md)**  
-- ⬜ **Day 4: (placeholder)**  
+- ✅ **[Day 4: AWS Cloud Economics (Theory)](./days/day-04.md)**  
 - ⬜ **Day 5: (placeholder)**  
 
 <br>

@@ -90,5 +90,53 @@ While I now understand the foundational concepts, I am extremely eager to get my
 
 ---
 
+## Lab Task Results
+
+### Step 1: AWS Account Creation
+Successfully created AWS Free Tier account.
+
+![Step 1 - AWS Account Creation](../Week-01/Day-01/Step 1 - AWS Account Creation.png)
+
+---
+
+### Step 2: MFA Setup
+Enabled MFA for root account using Authenticator App.
+
+![Step 2 - MFA Setup](../Week-01/Day-01/Step 2 - MFA Setup.png)
+
+---
+
+### Step 3: Console Exploration
+Explored EC2, S3, IAM, RDS, and Lambda services.
+
+![Step 3 - Console Exploration](../Week-01/Day-01/Step 3 - Console Exploration.png)
+
+---
+
+### Step 4: Billing Budget Setup
+Configured Zero Spend Budget for cost control.
+
+![Step 4 - Billing Budget Setup](../Week-01/Day-01/Step 4 - Billing Budget Setup.png)
+
+---
+
+### Bonus Challenge
+Estimated EC2 cost using AWS Pricing Calculator.
+
+![Bonus Challenge](../Week-01/Day-01/Bonus Challenge - AWS Pricing Calculator Estimate.png)
+
+<br>
+
+---
+
+### 📱 X Post
+> Day 1 of my AWS Cloud journey! 🚀 Just created my AWS Free Tier account,
+locked it down with MFA, and explored the console. 8 weeks to SAA-C03 certification — watch
+this space. #AWS #CloudComputing #LearningInPublic #TechAfrica
+
+<br>
+
+---
+
 ### 📅 Progress Tracker
 - [x] **Day 1 Completed** ✅

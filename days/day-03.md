@@ -1,8 +1,8 @@
 <div align="center">
 
-# ☁️ Day 3 – [Topic Title]
+# 🔐 Day 3 – AWS Shared Responsibility Model (Hands-On Lab)
 
-*[Short personal intro about what I learned that day. e.g., "Today, I dove into..."]*
+*On Day 3 of my AWS Cloud journey, I completed a hands-on lab focused on the **AWS Shared Responsibility Model**. This model defines how security responsibilities are divided between **AWS (the provider)** and **the customer (the user)**.*
 
 </div>
 
@@ -10,8 +10,13 @@
 
 <br>
 
-### 📌 Concept Explanation
-*[Clear explanation of the topic in simple terms.]*
+### 🎯 Lab Objective
+To create a visual diagram that clearly separates:
+- AWS responsibilities
+- Customer responsibilities
+- Shared controls
+
+I also categorized real-world cloud security tasks to understand who is responsible for each.
 
 <br>
 
@@ -19,8 +24,21 @@
 
 <br>
 
-### 🌍 Why It Matters
-*[Real-world importance of this concept in cloud engineering.]*
+### 🔐 Understanding the Model
+
+**☁️ Security OF the Cloud (AWS Responsibility)**  
+AWS is responsible for securing the **infrastructure that runs the cloud**, including:
+- Physical data centers
+- Hardware
+- Networking
+- Hypervisor (virtualization layer)
+
+**🧑💻 Security IN the Cloud (Customer Responsibility)**  
+Customers are responsible for securing **what they run in the cloud**, including:
+- Data
+- User access and permissions
+- Operating systems (for EC2)
+- Application security
 
 <br>
 
@@ -28,10 +46,28 @@
 
 <br>
 
-### ⚙️ Key Concepts
-- **[Concept 1]:** [Brief definition or role]
-- **[Concept 2]:** [Brief definition or role]
-- **[Concept 3]:** [Brief definition or role]
+### 📊 Categorisation of Responsibilities
+
+**✅ AWS Responsibility**
+- Physical server hardware  
+- Data centre cooling & power  
+- Network firewall between Availability Zones  
+- Hypervisor (virtualisation layer)  
+- Database backups (RDS – managed service)  
+
+**👤 Customer Responsibility**
+- EC2 operating system patches  
+- S3 bucket access policy  
+- IAM user passwords & MFA  
+- Encrypting data stored in S3  
+- Who can access AWS account  
+- SSL certificate on web application  
+- Database backups (MySQL on EC2)  
+
+**🤝 Shared Controls**
+- Patch management (AWS handles host, customer handles OS)  
+- Configuration management  
+- Security awareness training  
 
 <br>
 
@@ -39,20 +75,12 @@
 
 <br>
 
-### 💰 Benefits & 🏗️ Use Case
-- [Key advantage 1]
-- [Key advantage 2]
+### ⚙️ Key Insight
+The same task can have different responsibilities depending on the service used.
 
-*[Real-world scenario where this technology or architectural pattern is applied.]*
-
-<br>
-
----
-
-<br>
-
-### 🧠 Reflection
-*[What did I actually learn today? Be authentic and write in the first person.]*
+Example:
+- RDS backups → AWS handles it  
+- MySQL on EC2 → Customer handles it  
 
 <br>
 
@@ -60,8 +88,33 @@
 
 <br>
 
-### 🚀 Next Steps
-*[What I plan to learn next or practice in tomorrow's lab.]*
+### 🧠 Plain Explanation (Non-Technical)
+AWS takes care of the physical infrastructure like servers, buildings, and networking so you don’t have to worry about them.  
+However, you are still responsible for protecting your data, managing who has access, and securing your applications.  
+This is important because moving to the cloud does not remove your responsibility for security—it only changes it.
+
+<br>
+
+---
+
+<br>
+
+### 🛠️ What I Built
+- A structured **diagram/table** showing AWS vs Customer vs Shared responsibilities  
+- Categorised 12 real-world cloud security tasks  
+- Created a simplified explanation for non-technical users  
+
+<br>
+
+---
+
+<br>
+
+### ⚠️ Key Takeaways
+- Cloud security is a **shared responsibility**  
+- AWS does NOT handle everything  
+- Misconfiguration by customers is a major security risk  
+- Understanding this model is critical for real-world cloud security  
 
 <br>
 

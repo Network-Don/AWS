@@ -57,6 +57,11 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 
 <br>
 
+**Week 2**
+- ✅ **[Day 1: IAM Deep Dive: Users, Groups & Roles](./days/day-06.md)**  
+
+<br>
+
 ---
 
 <br>

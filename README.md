@@ -62,6 +62,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 2: IAM Policies: Writing & Reading Permissions](./days/day-07.md)**  
 - ✅ **[Day 3: SCPs & AWS Organizations](./days/day-08.md)**  
 - ✅ **[Day 4: CloudTrail & Audit Logging](./days/day-09.md)**  
+- ✅ **[Day 5: MFA & Security Best Practices](./days/day-10.md)**  
 
 <br>
 

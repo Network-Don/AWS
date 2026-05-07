@@ -66,6 +66,11 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 
 <br>
 
+**Week 3**
+- ✅ **[Day 1: VPC Fundamentals](./days/day-11.md)**  
+
+<br>
+
 ---
 
 <br>

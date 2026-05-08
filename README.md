@@ -69,6 +69,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 **Week 3**
 - ✅ **[Day 1: VPC Fundamentals](./days/day-11.md)**  
 - ✅ **[Day 2: Subnets: Public vs Private](./days/day-12.md)**  
+- ✅ **[Day 3: Configure Security Groups (Your VPC Firewall)](./days/day-13.md)**  
 
 <br>
 

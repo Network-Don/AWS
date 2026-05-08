@@ -202,17 +202,65 @@ Designing the VPC manually also helped me understand how AWS networking componen
 
 ## Lab Task Results
 
-### Custom Production-style VPC Architecture
+### Step 1: VPC showing OluTech
+![Step 1](../Week-03/Day%2001/Step%201%20-%20VPC%20showing%20OluTech.png)
 
+---
+
+### Step 2: The 4 subnets with correct CIDRs
+![Step 2](../Week-03/Day%2001/Step%202%20-%20The%204%20subnets%20with%20correct%20CIDRs.png)
+
+---
+
+### Step 3: Public Subnet with auto-assign public IP enabled
+![Step 3](../Week-03/Day%2001/Step%203%20-%20Public%20Subnet%20with%20auto-assign%20public%20IP%20enabled.png)
+
+---
+
+### Step 4: VPC Architecture Diagram
 Built a custom production-style VPC with:
-
 - 1 VPC
 - 4 subnets
 - Multi-AZ design
 - Public/private segmentation
 
-*VPC architecture diagram placeholder - Screenshots to be added later*
-![VPC Architecture Diagram](../Week-03/Day%2001/vpc-architecture-diagram.png)
+![Step 4](../Week-03/Day%2001/Step%204%20-%20VPC%20Architecture%20Diagram.png)
+
+---
+
+### Bonus Challenge: Default VPC vs Custom VPC
+![Bonus Challenge](../Week-03/Day%2001/Bonus%20Challenge%20-%20Default%20VPC.png)
+
+**📌 Default VPC vs Custom VPC**
+
+**🖼️ Default VPC**
+
+**🔍 Key Differences**
+* **CIDR Block**
+  * Default: `172.31.0.0/16` (auto-assigned)
+  * Custom: `10.0.0.0/16` (manually defined)
+* **Subnets**
+  * Default: Auto-created, all public
+  * Custom: Manually created (public & private)
+* **Internet Access**
+  * Default: Enabled by default
+  * Custom: Must be configured
+* **Route Tables**
+  * Default: Preconfigured (internet access included)
+  * Custom: Fully manual control
+* **Security Design**
+  * Default: Flat network, no isolation
+  * Custom: Segmented (web, app, DB layers)
+
+**⚠️ Why Not Use Default VPC in Production?**
+* No network segmentation
+* Higher risk of public exposure
+* Limited control over architecture
+* Not aligned with security best practices
+
+**✅ Takeaway**
+* Default VPC: Good for testing
+* Custom VPC: Required for secure, production environments
 
 <br>
 

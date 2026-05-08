@@ -129,14 +129,5 @@ Estimated EC2 cost using AWS Pricing Calculator.
 
 ---
 
-### 📱 X Post
-> Day 1 of my AWS Cloud journey! 🚀 Just created my AWS Free Tier account,
-locked it down with MFA, and explored the console. 8 weeks to SAA-C03 certification — watch
-this space. #AWS #CloudComputing #LearningInPublic #TechAfrica
-
-<br>
-
----
-
 ### 📅 Progress Tracker
 - [x] **Day 1 Completed** ✅

@@ -260,6 +260,11 @@ Building the complete 3-tier architecture diagram helped me visualize how all AW
 ### Step 1: Completed 3-tier architecture diagram
 ![Step 1](../Week-03/Day%2005/Step%201%20-%20Completed%203-tier%20architecture%20diagram.png)
 
+---
+
+### Step 2: GitHub commit showing the diagram added to my portfolio repo
+![Step 2](../Week-03/Day%2005/Step%202%20-%20GitHub%20commit%20showing%20the%20diagram%20added%20to%20my%20portfolio%20repo.png)
+
 <br>
 
 ---

@@ -75,6 +75,11 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 
 <br>
 
+**Week 4**
+- ✅ **[Day 1: EC2 Introduction & Launch](./days/day-16.md)**  
+
+<br>
+
 ---
 
 <br>

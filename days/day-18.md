@@ -130,41 +130,5 @@ Today’s lab shifted my perspective from basic instance launching to cloud fina
 
 <br>
 
-### 📢 Social Media Sharing
-
-#### 🐦 X Post
-```text
-Day 18 of my AWS Cloud journey: Cost Optimization & FinOps! 💸
-
-Compared EC2 pricing models for a 24/7 payment processing workload (OluPay Fintech). Found that a Compute Savings Plan balances a massive 43% savings with the flexibility to scale.
-
-#AWS #CloudEngineering #FinOps #EC2 #CostOptimization
-```
-
-#### 💼 LinkedIn Post
-```text
-🚀 Day 18 of my AWS Cloud Journey: Mastering EC2 Pricing Models & FinOps 💸
-
-A key part of being a Cloud Engineer is ensuring resources are not just performant, but cost-optimized. Today, I analyzed EC2 pricing models using a real-world workload scenario: OluPay Fintech running 4x m5.xlarge instances 24/7 in us-east-1.
-
-Here’s what I evaluated:
-1️⃣ On-Demand: Maximum flexibility, but highest cost ($6,727.68/yr).
-2️⃣ Reserved Instances: Up to 53% savings (3-yr), but locks you into a specific configuration.
-3️⃣ Savings Plans: The sweet spot! A 3-year Compute Savings Plan offers ~43% savings with the flexibility to change instance families, regions, or even migrate to Fargate/Lambda.
-4️⃣ Spot Instances: Up to 90% savings, but only for fault-tolerant, interruptible workloads.
-
-💡 Recommendation: A Compute Savings Plan is the optimal choice for OluPay's payment processing API. It secures significant cost savings while preserving the flexibility needed to scale and evolve their architecture.
-
-Bonus challenge: Explored Spot Instance mitigation strategies and how AWS Compute Optimizer uses ML to right-size resources.
-
-#AWS #CloudComputing #FinOps #CostOptimization #CloudSecurity #Infrastructure #CareerGrowth
-```
-
-<br>
-
----
-
-<br>
-
 ### 📅 Progress Tracker
 - [x] **Week 4 Day 3 Completed** ✅

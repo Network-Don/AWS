@@ -79,6 +79,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 1: EC2 Introduction & Launch](./days/day-16.md)**  
 - ✅ **[Day 2: EC2 Instance Types & AMIs](./days/day-17.md)**  
 - ✅ **[Day 3: EC2 Pricing Models](./days/day-18.md)**  
+- ✅ **[Day 4: Auto Scaling & Load Balancing](./days/day-19.md)**  
 
 <br>
 

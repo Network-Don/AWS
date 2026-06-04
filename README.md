@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./profile.png" alt="Raphael Omisore" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 
@@ -48,10 +48,11 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 
 ### 📊 AWS Learning Progress
 
+<!-- START_PROGRESS_TRACKER -->
 **Week 1**
 - ✅ **[Day 1: What is Cloud Computing](./days/day-01-cloud-computing.md)**  
 - ✅ **[Day 2: AWS Global Infrastructure](./days/day-02-aws-global-infrastructure.md)**  
-- ✅ **[Day 3: AWS Shared Responsibility Model](./days/day-03.md)**  
+- ✅ **[Day 3: AWS Shared Responsibility Model (Hands-On Lab)](./days/day-03.md)**  
 - ✅ **[Day 4: AWS Cloud Economics (Theory)](./days/day-04.md)**  
 - ✅ **[Day 5: IAM & Account Security Setup (Theory)](./days/day-05.md)**  
 
@@ -70,7 +71,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 1: VPC Fundamentals](./days/day-11.md)**  
 - ✅ **[Day 2: Subnets: Public vs Private](./days/day-12.md)**  
 - ✅ **[Day 3: Configure Security Groups (Your VPC Firewall)](./days/day-13.md)**  
-- ✅ **[Day 4: Bastion Hosts & Private Subnet Access](./days/day-14.md)**  
+- ✅ **[Day 4: Bastion Hosts & Private Subnet Access (Hands-On Lab)](./days/day-14.md)**  
 - ✅ **[Day 5: VPC Connectivity & Enterprise Network Architecture](./days/day-15.md)**  
 
 <br>
@@ -80,6 +81,8 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 2: EC2 Instance Types & AMIs](./days/day-17.md)**  
 - ✅ **[Day 3: EC2 Pricing Models](./days/day-18.md)**  
 - ✅ **[Day 4: Auto Scaling & Load Balancing](./days/day-19.md)**  
+- ✅ **[Day 5: EC2 Storage — EBS & Instance Store](./days/day-20.md)**  
+<!-- END_PROGRESS_TRACKER -->
 
 <br>
 

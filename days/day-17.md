@@ -176,3 +176,12 @@ Compute Optimizer helps organizations reduce unnecessary cloud costs while maint
 
 ### 📅 Progress Tracker
 - [x] **Week 4 Day 2 Completed** ✅
+
+---
+
+<div align="center">
+
+| [« Previous Day: EC2 Introduction & Launch](./day-16.md) | [Next Day: EC2 Pricing Models](./day-18.md) » |
+| :---: | :---: |
+
+</div>

@@ -132,3 +132,12 @@ Today’s lab shifted my perspective from basic instance launching to cloud fina
 
 ### 📅 Progress Tracker
 - [x] **Week 4 Day 3 Completed** ✅
+
+---
+
+<div align="center">
+
+| [« Previous Day: EC2 Instance Types & AMIs](../../README.md) | [Next Day: Auto Scaling & Load Balancing](../Day%2004/README.md) » |
+| :---: | :---: |
+
+</div>

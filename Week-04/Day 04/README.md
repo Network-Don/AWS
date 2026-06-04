@@ -195,3 +195,12 @@ Today reinforced the importance of elasticity in cloud architecture. I learned h
 
 ### 📅 Progress Tracker
 - [x] **Week 4 Day 4 Completed** ✅
+
+---
+
+<div align="center">
+
+| [« Previous Day: EC2 Pricing Models](../Day%2003/README.md) | [Next Day: EC2 Storage — EBS & Instance Store](../Day%2005/README.md) » |
+| :---: | :---: |
+
+</div>

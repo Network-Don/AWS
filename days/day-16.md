@@ -230,3 +230,12 @@ I also found exploring the Instance Metadata Service (IMDS) fascinating. Being a
 
 ### 📅 Progress Tracker
 - [x] **Week 4 Day 1 Completed** ✅
+
+---
+
+<div align="center">
+
+| [« Previous Day: VPC Connectivity & Enterprise Network Architecture](./day-15.md) | [Next Day: EC2 Instance Types & AMIs](./day-17.md) » |
+| :---: | :---: |
+
+</div>

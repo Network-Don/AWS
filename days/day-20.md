@@ -190,7 +190,7 @@ Use EBS whenever data durability is required:
 
 <div align="center">
 
-| [« Previous Day: Auto Scaling & Load Balancing](./day-19.md) | [Next Day: N/A »](#) |
+| [« Previous Day: Auto Scaling & Load Balancing](./day-19.md) | [Next Day: Create an S3 Bucket & Host a Static Website](./day-21.md) » |
 | :---: | :---: |
 
 </div>

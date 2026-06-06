@@ -169,37 +169,37 @@ For the bonus challenge, I expanded the portfolio website into a multi-page stat
 ## 📸 Screenshot Section
 
 ### S3 Bucket Created with Static Website Hosting Enabled
-![S3 bucket created with static website hosting enabled](../Week-05/Day%2001/Step%201%20-%20S3%20bucket%20created%20with%20static%20website%20hosting%20enabled.png)
+![S3 bucket created with static website hosting enabled](./Step%201%20-%20S3%20bucket%20created%20with%20static%20website%20hosting%20enabled.png)
 *Creating the globally unique S3 bucket, disabling the default Block Public Access configuration, and enabling static website hosting in the Properties tab.*
 
 ---
 
 ### index.html Successfully Uploaded
-![index.html successfully uploaded](../Week-05/Day%2001/Step%202%20-%20index.html%20successfully%20uploaded%20%28showing%20in%20bucket%20contents%29.png)
+![index.html successfully uploaded](./Step%202%20-%20index.html%20successfully%20uploaded%20%28showing%20in%20bucket%20contents%29.png)
 *Uploading the portfolio landing page file (index.html) to the objects listing inside the S3 bucket.*
 
 ---
 
 ### Bucket Policy Applied
-![Bucket policy applied](../Week-05/Day%2001/Step%203%20-%20Bucket%20policy%20applied%20%28public%20read%29.png)
+![Bucket policy applied](./Step%203%20-%20Bucket%20policy%20applied%20%28public%20read%29.png)
 *Applying the S3 bucket policy permitting public s3:GetObject read permissions for anonymous users, marking the bucket with a public tag.*
 
 ---
 
 ### Portfolio Page Live in Browser
-![Portfolio page live in browser showing S3 website endpoint URL](../Week-05/Day%2001/Step%204%20-%20Portfolio%20page%20live%20in%20browser%20showing%20S3%20website%20endpoint%20URL.png)
+![Portfolio page live in browser showing S3 website endpoint URL](./Step%204%20-%20Portfolio%20page%20live%20in%20browser%20showing%20S3%20website%20endpoint%20URL.png)
 *Accessing the live student portfolio page via the S3 static website hosting endpoint URL in a web browser.*
 
 ---
 
 ### Bonus Challenge: Link Added to index.html
-![Bonus Challenge - second link added to index.html](../Week-05/Day%2001/Bonus%20Challenge%20-%20%20second%20link%20added%20to%20index.html..png)
+![Bonus Challenge - second link added to index.html](./Bonus%20Challenge%20-%20%20second%20link%20added%20to%20index.html..png)
 *Adding the navigation link targeting the secondary labs page within the index.html file.*
 
 ---
 
 ### Bonus Challenge: Live labs.html Page
-![Bonus Challenge - second page from the index.html](../Week-05/Day%2001/Bonus%20Challenge%20-%20second%20page%20from%20the%20index.html.png)
+![Bonus Challenge - second page from the index.html](./Bonus%20Challenge%20-%20second%20page%20from%20the%20index.html.png)
 *Navigating to the active labs.html subpage directly from the S3 static website endpoint, showing all completed cohort labs.*
 
 <br>
@@ -215,7 +215,7 @@ For the bonus challenge, I expanded the portfolio website into a multi-page stat
 
 <div align="center">
 
-| [« Previous Day: EC2 Storage — EBS & Instance Store](./day-20.md) | [Next Day: S3 Storage Classes & Lifecycle](./day-22.md) » |
+| [« Previous Day: EC2 Storage — EBS & Instance Store](../../Week-04/Day%2005/README.md) | [Next Day: S3 Storage Classes & Lifecycle](../Day%2002/README.md) » |
 | :---: | :---: |
 
 </div>

@@ -87,6 +87,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 
 **Week 5**
 - ✅ **[Day 1: Create an S3 Bucket & Host a Static Website](./days/day-21.md)**  
+- ✅ **[Day 2: S3 Storage Classes & Lifecycle](./days/day-22.md)**  
 <!-- END_PROGRESS_TRACKER -->
 
 <br>

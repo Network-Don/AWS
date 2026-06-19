@@ -267,14 +267,14 @@ Legal files accumulate over years. Without automated management, storage costs g
 
 ---
 
-### Expired Pre-Signed URL (Access Denied) [Placeholder]
-![Expired Pre-Signed URL Access Denied](./Step 5 - Expired Pre-Signed URL showing access denied (Placeholder).png)
+### Expired Pre-Signed URL (Access Denied)
+![Expired Pre-Signed URL Access Denied](./Step 5 - Pre-Signed URL expired (access denied after timeout).png)
 *Testing the link after 1 hour: S3 blocks access and returns an XML Access Denied message due to expired signatures.*
 
 ---
 
-### Published GitHub README [Placeholder]
-![Published GitHub README](./Step 6 - Published GitHub README (Placeholder).png)
+### Published GitHub README
+![Published GitHub README](./Step 6 - GitHub README published.png)
 *Verifying the published S3 Document Management System portfolio documentation on GitHub.*
 
 <br>
@@ -352,7 +352,9 @@ Week-05/
     ├── Step 1 - S3 bucket with versioning + encryption + tags enabled.png
     ├── Step 2 - Objects organised in 3 prefix folders.png
     ├── Step 3 - Lifecycle rule configured with all transitions.png
-    └── Step 4 - Pre-Signed URL working in browser (file downloads).png
+    ├── Step 4 - Pre-Signed URL working in browser (file downloads).png
+    ├── Step 5 - Pre-Signed URL expired (access denied after timeout).png
+    └── Step 6 - GitHub README published.png
 ```
 
 <br>

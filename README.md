@@ -90,6 +90,7 @@ I believe the best way to learn AWS is by getting my hands dirty in the console 
 - ✅ **[Day 2: S3 Storage Classes & Lifecycle](./days/day-22.md)**  
 - ✅ **[Day 3: Secure an S3 Bucket with Versioning, Encryption & Bucket Policies](./days/day-23.md)**  
 - ✅ **[Day 4: S3 Cross-Region Replication (CRR) for Disaster Recovery](./days/day-24.md)**  
+- ✅ **[Day 5: Lagos Law Firm S3 Document Management System](./days/day-25.md)**  
 <!-- END_PROGRESS_TRACKER -->
 
 <br>
